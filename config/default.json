@@ -1,0 +1,5 @@
+{
+    "PORT": 5000,
+    "jwtSecret": "Phil secret token",
+    "mongoUri": "mongodb+srv://admin:pass@cluster0.sj6h5.mongodb.net/app?retryWrites=true&w=majority"
+}
